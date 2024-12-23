@@ -1,0 +1,16 @@
+.git
+.editorconfig
+/e2e
+/docs
+.gitignore
+*.zip
+!.angular
+!.vscode
+!dist/**
+!dist-debug/**
+!node_modules
+
+!.dockerignore
+!Dockerfile
+
+!nginx.conf
